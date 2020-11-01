@@ -2,7 +2,7 @@
 
 
 <p align="justify">
-  I am mathematicians who passionate to be a data scientist. I interested to learn Data Visualization, Big Data, Machine Learning, Data Mining, R programming, Python programming and other data science topics.
+  I am mathematicians who passionate to be a data scientist. I interested to learn Data Visualization, Big Data, Machine Learning, Data Mining, Deep Learning, R programming, Python programming and other data science topics.
 </p>
 
 <br> 
