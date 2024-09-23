@@ -16,7 +16,7 @@
 - [**My Personal Projects**](https://github.com/Almuzhidul/Machine-Learning-from-Scratch) - *Here is place to share my personal projects that I have done*
 - [**Dicoding**](https://github.com/Almuzhidul/Dicoding-Indonesia) - *Share what I have learn in awesome DQ-Lab Learning Platform*
 - [**Udemy**](https://github.com/Almuzhidul/Udemy-Bootcamp) - *Share what I have learn in awesome Courseera Learning Platform*
-- [**My Academics Paper**](https://github.com/eliyanto29/My-Academics-Paper-On-Data-Science) - *Place for my academics paper for free*
+- [**My Academics Paper**](https://scholar.google.com/citations?user=X2ZK94sAAAAJ&hl=id&oi=ao) - *Place for my academics paper for free*
 
 ### 📱 You Can Reach Me at
 
